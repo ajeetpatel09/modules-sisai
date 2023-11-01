@@ -20,7 +20,7 @@ const router = createBrowserRouter([
         element: <ExcelSheet/>
     },
     {
-        path: '/Geocoding',
+        path: '/Geolocation',
         element: <GeoLocation/>
     },
     {
